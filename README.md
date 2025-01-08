@@ -147,7 +147,7 @@ A Next.js based frontend for BioinfoGPT - an intelligent assistant for bioinform
 ![BioinfoGPT Demo 3](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(3).png)
 ![BioinfoGPT Demo 4](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(4).png)
 ![BioinfoGPT Demo 5](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(5).png)
-https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(1).png
+
 
 ## Tech Stack
 
