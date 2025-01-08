@@ -142,12 +142,12 @@ A Next.js based frontend for BioinfoGPT - an intelligent assistant for bioinform
 
 [Live Demo](https://bioinfo-gpt.vercel.app)
 
-![BioinfoGPT Demo 1](./doc/pic/pic(1).png)
-![BioinfoGPT Demo 2](./doc/pic/pic(2).png)
-![BioinfoGPT Demo 3](./doc/pic/pic(3).png)
-![BioinfoGPT Demo 4](./doc/pic/pic(4).png)
-![BioinfoGPT Demo 5](./doc/pic/pic(5).png)
-
+![BioinfoGPT Demo 1](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(1).png)
+![BioinfoGPT Demo 2](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(2).png)
+![BioinfoGPT Demo 3](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(3).png)
+![BioinfoGPT Demo 4](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(4).png)
+![BioinfoGPT Demo 5](https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(5).png)
+https://github.com/gawxyz/BioinfoGPT/blob/main/doc/pic/pic%20(1).png
 
 ## Tech Stack
 
